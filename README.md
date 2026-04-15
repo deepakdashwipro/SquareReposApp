@@ -133,8 +133,8 @@ SquareRepos
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="Resources/Screenshots/lightThemHome.png" width="250"/>
-  <img src="Resources/Screenshots/lightThemDetail.png" width="250"/>
+  <img src="SquareRepose/Resources/Screenshots/lightThemHome.png" width="250"/>
+  <img src="SquareRepose/Resources/Screenshots/lightThemDetail.png" width="250"/>
 </p>
 
 ---
@@ -142,8 +142,8 @@ SquareRepos
 ## 🌙 Light & Dark Mode
 
 <p align="center">
-  <img src="Resources/Screenshots/darkthemHome.png" width="250"/>
-  <img src="Resources/Screenshots/darkthemDetail.png" width="250"/>
+  <img src="SquareRepose/Resources/Screenshots/darkthemHome.png" width="250"/>
+  <img src="SquareRepose/Resources/Screenshots/darkthemDetail.png" width="250"/>
 </p>
 
 ---
