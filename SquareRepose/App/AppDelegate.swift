@@ -11,7 +11,7 @@ import UIKit
 /// Responsible for app lifecycle and initial UI setup.
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
+//
     // MARK: - Properties
 
     /// Main application window
